@@ -2,11 +2,11 @@
 History
 =======
 
-4.0.0a5 (unreleased)
---------------------
+4.0.10 (2022-11-16)
+-------------------
 
-- Nothing changed yet.
-
+- Update connectors.py for Python 3.10
+  [lwalther]
 
 4.0.0a4 (2022-09-28)
 --------------------
